@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OkWvyFUIYInuwuTG9nNsSipdKVWUXHSVDn6OZ+prHX7UVhHC5EHJqpDLUm46uu4JsztpiKeMc5v+5pbeCjhbfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Motahar 1\\source\\repos\\Winer\\Winer\\Winer.Compiler.Mac\\Winer.Compiler.Mac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

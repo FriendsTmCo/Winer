@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30803.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winer.ConsoleApp", "Winer.ConsoleApp\Winer.ConsoleApp.csproj", "{2B96E127-6D0B-448F-96B8-0E7FE19F0AF3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Virtuals", "Virtuals", "{34ACA511-5903-4417-8699-E8A568C907E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Compilers", "Compilers", "{FCBF7E12-B4BF-4574-AAA2-20F8CAC0EE30}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Apps", "Apps", "{1EFA61FF-6388-4336-B957-5C39971307B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winer.Compiler.Windows", "Winer.Compiler.Windows\Winer.Compiler.Windows.csproj", "{FDAA72B6-98E5-4A6A-8CF4-47679F64CB27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winer.Compiler.Linux", "Winer.Compiler.Linux\Winer.Compiler.Linux.csproj", "{6B9CC206-2D4B-4F08-AC6E-61A508B87EDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winer.Compiler.Mac", "Winer.Compiler.Mac\Winer.Compiler.Mac.csproj", "{B529D6A9-D1F7-4B1D-9F44-92BDBD776BA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B96E127-6D0B-448F-96B8-0E7FE19F0AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B96E127-6D0B-448F-96B8-0E7FE19F0AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B96E127-6D0B-448F-96B8-0E7FE19F0AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B96E127-6D0B-448F-96B8-0E7FE19F0AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDAA72B6-98E5-4A6A-8CF4-47679F64CB27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDAA72B6-98E5-4A6A-8CF4-47679F64CB27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDAA72B6-98E5-4A6A-8CF4-47679F64CB27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDAA72B6-98E5-4A6A-8CF4-47679F64CB27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9CC206-2D4B-4F08-AC6E-61A508B87EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9CC206-2D4B-4F08-AC6E-61A508B87EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9CC206-2D4B-4F08-AC6E-61A508B87EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9CC206-2D4B-4F08-AC6E-61A508B87EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B529D6A9-D1F7-4B1D-9F44-92BDBD776BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B529D6A9-D1F7-4B1D-9F44-92BDBD776BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B529D6A9-D1F7-4B1D-9F44-92BDBD776BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B529D6A9-D1F7-4B1D-9F44-92BDBD776BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2B96E127-6D0B-448F-96B8-0E7FE19F0AF3} = {1EFA61FF-6388-4336-B957-5C39971307B1}
+		{FDAA72B6-98E5-4A6A-8CF4-47679F64CB27} = {FCBF7E12-B4BF-4574-AAA2-20F8CAC0EE30}
+		{6B9CC206-2D4B-4F08-AC6E-61A508B87EDA} = {FCBF7E12-B4BF-4574-AAA2-20F8CAC0EE30}
+		{B529D6A9-D1F7-4B1D-9F44-92BDBD776BA8} = {FCBF7E12-B4BF-4574-AAA2-20F8CAC0EE30}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32840B6C-9CA8-4BFF-B957-57F54FA935B6}
+	EndGlobalSection
+EndGlobal
