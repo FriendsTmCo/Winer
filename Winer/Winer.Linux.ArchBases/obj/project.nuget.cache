@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nHAArX3/4Zn5dZP2vFkVYSzrBQV0k08vng+uRV4sBtdAJ9yrrgFX9SBDiGlQzobLY8J5CmIB1DfvZmAXvZ/8Og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Motahar 1\\source\\repos\\Winer\\Winer\\Winer.Linux.ArchBases\\Winer.Linux.ArchBases.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
