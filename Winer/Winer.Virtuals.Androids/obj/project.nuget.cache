@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nUBpxtP1Fjv552uVpPTgpL75STvjbQKO2SJCxIFeVJ//GwQtsXtFqViz97ihlPLbqlW46wLlPZzHMcfQqBud8Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Motahar 1\\source\\repos\\Winer\\Winer\\Winer.Virtuals.Androids\\Winer.Virtuals.Androids.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
