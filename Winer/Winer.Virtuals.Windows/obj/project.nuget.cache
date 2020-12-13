@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yFmu6q2ORU/Ka/+wMDMZDm7KHnt2QbdtkvL3lh+U5XvFyACXNjaa7PYFrK+k3rX4cHsZ2oQB0YHn3+2hgzUJ+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Motahar 1\\source\\repos\\Winer\\Winer\\Winer.Virtuals.Windows\\Winer.Virtuals.Windows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Motahar 1\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
