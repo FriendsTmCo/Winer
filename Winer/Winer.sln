@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winer.Linux.Copmillers.Arch
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winer.Compilers.Linux.UbuntuBases", "Winer.Compilers.Linux.UbuntuBases\Winer.Compilers.Linux.UbuntuBases.csproj", "{7FC49DB5-6823-435B-98BF-CEA59F0A6B0B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winer.Compillers.Android", "Winer.Compillers.Android\Winer.Compillers.Android.csproj", "{7F28E2BB-CE62-481C-B238-7F0B8E67446D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{7FC49DB5-6823-435B-98BF-CEA59F0A6B0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FC49DB5-6823-435B-98BF-CEA59F0A6B0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FC49DB5-6823-435B-98BF-CEA59F0A6B0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F28E2BB-CE62-481C-B238-7F0B8E67446D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F28E2BB-CE62-481C-B238-7F0B8E67446D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F28E2BB-CE62-481C-B238-7F0B8E67446D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F28E2BB-CE62-481C-B238-7F0B8E67446D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -143,6 +149,7 @@ Global
 		{41B0E4B1-F42F-42A7-9719-E50A6583EA00} = {70118AB6-6A7C-4DC1-A005-7BB069F1F714}
 		{AF200723-B4A3-4960-B298-3B911E1A5380} = {7162DAE6-9A0E-48A4-8C4C-4723F5C25228}
 		{7FC49DB5-6823-435B-98BF-CEA59F0A6B0B} = {36A9B36C-62CE-4F24-ADB8-8AAC9814BC78}
+		{7F28E2BB-CE62-481C-B238-7F0B8E67446D} = {50DCAF2E-F0D8-4D8A-BB1A-C35EF05C2EAE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {32840B6C-9CA8-4BFF-B957-57F54FA935B6}
